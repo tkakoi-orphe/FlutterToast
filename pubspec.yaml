@@ -6,7 +6,8 @@ authors:
 homepage: https://github.com/huclengyue/FlutterToast
 
 environment:
-  sdk: '>=2.12.0-0 <3.0.0'
+#  sdk: '>=2.12.0-0 <3.0.0'
+  sdk: ">=2.14.2 <3.0.0"
 
 dependencies:
   flutter:
